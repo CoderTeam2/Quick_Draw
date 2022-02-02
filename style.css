@@ -1,0 +1,17 @@
+body{
+    background-color:chartreuse;
+}
+#score{
+    font-size: 20px;
+    float : left;
+    margin-left: 20px;
+}
+#timer{
+    font-size: 20px;
+    float: right;
+    margin-right: 100px;
+}
+#sketch_to_draw{
+    font-size: 25px;
+    color: crimson;
+}
